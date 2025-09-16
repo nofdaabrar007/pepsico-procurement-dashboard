@@ -1,0 +1,5 @@
+{
+  "name": "Procurement Dashboard Pro",
+  "description": "An interactive, client-side dashboard to upload, normalize, and analyze multi-sheet procurement Excel workbooks. Features header auto-detection, data consolidation, filtering, metrics, and visualizations.",
+  "requestFramePermissions": []
+}
